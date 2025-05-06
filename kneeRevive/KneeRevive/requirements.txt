@@ -1,0 +1,13 @@
+pandas
+scikit-learn
+matplotlib
+seaborn
+joblib
+fastapi
+fast-core
+torch       
+requests
+flask
+pymongo
+tensorflow
+
